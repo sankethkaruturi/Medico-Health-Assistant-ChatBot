@@ -1,6 +1,6 @@
 # Medico-Health-Assistant-ChatBot
 
-![](https://github.com/suhasmaddali/health_assistant/blob/main/Images/health_assistant_doctor.png)
+![](https://github.com/sankethkaruturi/Images/blob/cb51ffc6972ec3bf47c83cde26735b63f160f023/Project%20Thumbnails/health_assistant_app.png)
 
 The integration of large language models (LLMs) as health assistants could significantly impact society by enhancing healthcare accessibility, especially in underserved areas. These models can support healthcare professionals by providing quick access to medical information, assist in preliminary diagnoses, and reduce workloads. They offer personalized health advice and mental health support, and play a role in educating the public about health issues. 
 
